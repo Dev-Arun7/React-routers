@@ -12,7 +12,7 @@ code {
     monospace;
 }
 
-nav {
+.primary-nav {
   background-color: rgb(222, 238, 252);
   padding: 16px 32px;
 }
